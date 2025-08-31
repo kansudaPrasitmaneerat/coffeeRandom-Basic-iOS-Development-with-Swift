@@ -4,8 +4,11 @@
 
 ---
 
-## Preview (รูปภาพ)
-<img src="images/preview.png" width="300"/>
+## Demo Preview
 
-## Demo (GIF)
-<img src="images/demo.gif" width="300"/>
+<table>
+  <tr>
+    <td><img src="images/preview.png" width="250"/></td>
+    <td><img src="images/demo.gif" width="250"/></td>
+  </tr>
+</table>
