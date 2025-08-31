@@ -2,9 +2,10 @@
 
 แอพสุ่มเครื่องดื่ม 🍵☕
 
+---
+
 ## Preview (รูปภาพ)
-![Preview](images/preview.png)
+<img src="images/preview.png" width="300"/>
 
 ## Demo (GIF)
-![Demo](images/demo.gif)
-
+<img src="images/demo.gif" width="300"/>
