@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-    <td><img src="images/preview.png" width="250"/></td>
+    <td><img src="images/preview.png" width="350"/></td>
     <td><img src="images/demo.gif" width="700"/></td>
   </tr>
 </table>
