@@ -9,6 +9,6 @@
 <table>
   <tr>
     <td><img src="images/preview.png" width="250"/></td>
-    <td><img src="images/demo.gif" width="500"/></td>
+    <td><img src="images/demo.gif" width="1000"/></td>
   </tr>
 </table>
